@@ -26,7 +26,6 @@
       }
       return sum;
     }
-    console.log(sumNestedArray(a1));
 
 #### English Level
 
