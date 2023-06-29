@@ -8,6 +8,7 @@
 - CSS
 - Javascript
 - React
+- Node.js
 - Automated Testing (Java)
 
 
@@ -26,3 +27,7 @@ C2
 #### Education
 
 Ph.D. in History (2019)
+
+#### Contact
+
+halavach@protonmail.com
