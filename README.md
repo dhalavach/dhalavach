@@ -5,8 +5,8 @@
 #### Skills
 
 - HTML
-- CSS
-- Javascript
+- CSS, Sass
+- Javascript, Typescript
 - React
 - Node.js
 - Automated Testing (Java)
@@ -22,7 +22,6 @@ C2
 
 [Form Validation](https://replit.com/@DmitryHalavach/form-validation#index.html).
 
-[Function to Check if String is a Palyndrom](https://replit.com/@DmitryHalavach/palindrom-no-recursion#script.js)
 
 #### Education
 
