@@ -7,9 +7,10 @@
 - HTML
 - CSS, Sass
 - Javascript, Typescript
-- React
+- React, Redux
+- Webpack, Vite
 - Node.js
-- Automated Testing (Java)
+- Testing (Jest, Selenium)
 
 
 #### English Level
