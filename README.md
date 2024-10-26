@@ -4,7 +4,7 @@
 
 #### Skills
 
-- Frontend (HTML,CSS/Sass, Javascript/Typescript, React, Redux, Webpack, Vite)
+- Frontend (HTML, CSS/Sass, Javascript/Typescript, React, Redux, Webpack, Vite)
 - Automated testing (Java - Selenium, JS - Jest)
 - Node.js, Express, Nest.js, API development (REST, GraphQL)
 - Docker
@@ -25,10 +25,6 @@ C2
 
 [Form Validation](https://replit.com/@DmitryHalavach/form-validation#index.html).
 
-
-#### Education
-
-Ph.D. in History (2019)
 
 #### Contact
 
